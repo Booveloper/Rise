@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rise">
+    <output-path>$USER_HOME$/Desktop/Plugins</output-path>
+    <root id="archive" name="Rise.jar">
+      <element id="module-output" name="Rise-Core" />
+    </root>
+  </artifact>
+</component>

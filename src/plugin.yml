@@ -1,0 +1,5 @@
+name: Rise-Core
+main: net.mineset.patheo.games.RiseCore
+version: 1.0
+commands:
+  user:
